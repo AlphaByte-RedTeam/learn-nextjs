@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        
+        <Navigation />
       </main>
 
       <footer className={styles.footer}>
